@@ -1,0 +1,53 @@
+Source(s):
+Agisoft Metashape
+https://www.devicespecifications.com/en/model/179841d3 
+
+Data:
+    Focal length pix = 0.849288
+    Focal length mm* = 4.2
+    Sensor width mm* = 3.567
+    Optical center:
+         X = 0.343138
+         y = 0.385195
+    Distortion:
+         b1 = 0.116422
+         k1 = 0.00136891
+         k2 = 0.00522366
+         k3 = 0.00601799
+
+Key:
+    * means the data is calculated or is from some other external source.
+
+Software log output:
+2020-08-20 15:57:45 Agisoft Metashape Standard Version: 1.6.2 build 10247 (64 bit)
+2020-08-20 15:57:45 Platform: Windows
+2020-08-20 16:17:41 Loading photos...
+2020-08-20 16:17:41 Finished processing in 0.068 sec (exit code 1)
+2020-08-20 16:17:55 CalibrateLens: f, cxcy, b1, k1-k3
+2020-08-20 16:17:55 Calibrating lens...
+2020-08-20 16:17:56 corners hessian: 0.387 non-maxima: 0.055 correspondences: 0.071 refine: 0.649
+2020-08-20 16:17:58 corners hessian: 0.377 non-maxima: 0.053 correspondences: 0.06 refine: 0.653
+2020-08-20 16:17:59 corners hessian: 0.37 non-maxima: 0.055 correspondences: 0.083 refine: 0.641
+2020-08-20 16:18:00 corners hessian: 0.373 non-maxima: 0.056 correspondences: 0.068 refine: 0.663
+2020-08-20 16:18:02 corners hessian: 0.397 non-maxima: 0.058 correspondences: 0.048 refine: 0.644
+2020-08-20 16:18:03 corners hessian: 0.4 non-maxima: 0.056 correspondences: 0.05 refine: 0.664
+2020-08-20 16:18:04 corners hessian: 0.388 non-maxima: 0.06 correspondences: 0.018 refine: 0.645
+2020-08-20 16:18:06 corners hessian: 0.383 non-maxima: 0.06 correspondences: 0.02 refine: 0.629
+2020-08-20 16:18:06 lm opt: xxxxxxxx 42.068 -> 6.3684
+2020-08-20 16:18:06 lm opt: xxxxxx 6.27232 -> 6.26719
+2020-08-20 16:18:06 lm opt: xxxxxx 6.258 -> 6.25747
+2020-08-20 16:18:06 reprojection errors: min = 0.0540176 avg = 2.50149 max = 13.3733
+2020-08-20 16:18:06 
+2020-08-20 16:18:06 Calibration results:
+2020-08-20 16:18:06 -----------------------------------------
+2020-08-20 16:18:06 EXIF focal length: 4.2
+2020-08-20 16:18:06 F = 3207.55 +- 0.849288
+2020-08-20 16:18:06 Cx = -79.2038 +- 0.343138
+2020-08-20 16:18:06 Cy = -50.2706 +- 0.385195
+2020-08-20 16:18:06 B1 = 1.08319 +- 0.116422
+2020-08-20 16:18:06 K1 = 0.132601 +- 0.00136891
+2020-08-20 16:18:06 K2 = -0.447518 +- 0.00522366
+2020-08-20 16:18:06 K3 = 0.407829 +- 0.00601799
+2020-08-20 16:18:06 
+2020-08-20 16:18:06 -----------------------------------------
+2020-08-20 16:18:06 Finished processing in 10.792 sec (exit code 1)

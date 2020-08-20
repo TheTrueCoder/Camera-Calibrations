@@ -1,0 +1,20 @@
+Source(s):
+
+
+Data:
+    Focal length pix = 
+    Focal length mm* = 
+    Sensor width mm* = 
+    Optical center:
+         X = 
+         y = 
+    Distortion:
+         b1 = 
+         k1 = 
+         k2 = 
+         k3 = 
+
+Key:
+    * means the data is calculated or is from some other external source.
+
+Software log output:
