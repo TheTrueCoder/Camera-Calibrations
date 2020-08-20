@@ -1,6 +1,6 @@
 Source(s):
 Agisoft Metashape
-https://www.devicespecifications.com/en/model/179841d3 
+EXIF Data
 
 Data:
     Focal length pix = 0.849288
